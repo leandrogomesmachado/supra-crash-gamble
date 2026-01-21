@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
             <Zap className="w-6 h-6 text-background" />
           </div>
           <div>
-            <h1 className="text-foreground font-bold text-xl">SUPRA CRASH</h1>
+            <h1 className="text-foreground font-bold text-xl">MOON DOG</h1>
             <p className="text-muted-foreground text-xs">Powered by dVRF</p>
           </div>
         </div>
